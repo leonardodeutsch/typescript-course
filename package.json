@@ -1,0 +1,19 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardodeutsch/typescript-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardodeutsch/typescript-course/issues"
+  },
+  "homepage": "https://github.com/leonardodeutsch/typescript-course#readme"
+}
